@@ -40,3 +40,7 @@ It creates two students objects. Then the Student ID of two students are taken a
 ### How can a user run the demo program?
 
 A user can first modify the set numbers for the student ID (lines: s1.set_ID(#) s2.set_ID(#)). After that they can run the code. User can use terminal, going to where the file is located, then typing 'python hw10_1.py' - should print out the output
+
+
+- [ ] An uncompleted task
+          - [x] A completed task
