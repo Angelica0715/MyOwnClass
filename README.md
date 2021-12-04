@@ -23,7 +23,7 @@ count_of_students = 0
 This is the start of the number of students at the begining of the code.
 
 
-### - [ ] Description of Each Methods: (include what arguments of inputs are necessary & what the method returns if anything. (Each method needs 2-3 sentences, including describing arguments and returns))
+- [ ] ### Description of Each Methods: (include what arguments of inputs are necessary & what the method returns if anything. (Each method needs 2-3 sentences, including describing arguments and returns))
 
 
 
