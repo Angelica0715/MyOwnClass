@@ -9,12 +9,14 @@ of my class and instructions to run my demo program.
 
 # Class Documentation
 
-### Description of Class: (short paragraph)
+### Description of Class: 
+(short paragraph)
 
 Class in python is a cide template for creating objects. It is a user-defined blueprint. It provides a means of bundling data and functionality togeter. The only class for this code is called Student.
 
 
-### Description of Each Data Variables: (each variable needs 1-2 sentence)
+### Description of Each Data Variables: 
+(each variable needs 1-2 sentence)
 
 The first variable found is the class variable.
 
@@ -23,7 +25,8 @@ count_of_students = 0
 This is the start of the number of students at the begining of the code.
 
 
-### Description of Each Methods: (include what arguments of inputs are necessary & what the method returns if anything. (Each method needs 2-3 sentences, including describing arguments and returns))
+### Description of Each Methods: 
+(include what arguments of inputs are necessary & what the method returns if anything. (Each method needs 2-3 sentences, including describing arguments and returns))
 
 
 
