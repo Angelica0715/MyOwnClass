@@ -7,26 +7,35 @@ Assignment 10.1: Your Own Class. Homework assignment for my CSE 20 class.
 This text file includes documentation 
 of my class and instructions to run my demo program.
 
-# Class Documentation
+# [ ] Class Documentation
 
-### Description of Class:
+### [x] Description of Class: (short paragraph)
 
-The only class for this code is Student. It's variable is 
-count_of_students which equals 0.
+Class in python is a cide template for creating objects. It is a user-defined blueprint. It provides a means of bundling data and functionality togeter. The only class for this code is called Student.
 
-Description of Each Data Variables
 
-Description of Each Methods:
+### [ ] Description of Each Data Variables: (each variable needs 1-2 sentence)
 
-# Demo Program Documentation
+The first variable found is the class variable.
 
-## Description of Demo Program: 
+count_of_students = 0
+
+This is the start of the number of students at the begining of the code.
+
+
+### [ ] Description of Each Methods: (include what arguments of inputs are necessary & what the method returns if anything. (Each method needs 2-3 sentences, including describing arguments and returns))
+
+
+
+# [x] Demo Program Documentation
+
+## [x] Description of Demo Program: 
 
 ### What happens in the demo program? 
 
 It creates two students objects. Then the Student ID of two students are taken and the gretter method is used. Then the ID that was taken had the setter method used, which is where we can manually set a new number for a new Student ID for the student. This information is printed out for both students. At the end, the code states the number of students involved.
 
-## Insturctions on How to Run Demo Program:
+## [x] Insturctions on How to Run Demo Program:
 
 ### How can a user run the demo program?
 
