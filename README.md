@@ -6,7 +6,7 @@ This text file includes documentation
 of my class and instructions to run my demo program.
 
 
-# GITHUB LINK: 
+GITHUB LINK: https://github.com/Angelica0715/MyOwnClass
 
 
 # Description of Class and Variables:
