@@ -43,4 +43,4 @@ A user can first modify the set numbers for the student ID (lines: s1.set_ID(#) 
 
 
 - [ ] An uncompleted task
-          - [x] A completed task
+- [x] A completed task
