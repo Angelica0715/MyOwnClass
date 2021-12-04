@@ -10,7 +10,6 @@ of my class and instructions to run my demo program.
 # Class Documentation
 
 ### Description of Class: 
-(short paragraph)
 
 Class in python is a cide template for creating objects. It is a user-defined blueprint. It provides a means of bundling data and functionality togeter. The only class for this code is called Student.
 
